@@ -1,26 +1,15 @@
-# Python - Fundamentos
+# Python Fundamentos
 
-Este repositório reúne conteúdos e práticas desenvolvidos durante o estudo da linguagem Python, com foco na compreensão dos fundamentos da programação.
+Repositório contendo exercícios e práticas dos fundamentos da linguagem Python.
 
-## 🚀 Objetivo
+## Tecnologias
+Python
 
-Construir base sólida em Python para aplicação futura no desenvolvimento backend e automação.
+## Objetivo
+Desenvolver conhecimento em fundamentos da linguagem, incluindo estruturas de controle e manipulação de dados.
 
-## 📚 Conteúdos abordados
-
-- Sintaxe básica
-- Variáveis e Tipos de Dados
-- Estruturas Condicionais
-- Estruturas de Repetição
+## 📚 O que eu aprendi
+- Tipos de dados
+- Estruturas condicionais
 - Funções
-- Listas e Dicionários
-- Entrada e Saída de Dados
-
-## 🛠️ Aplicação
-
-Os códigos aqui desenvolvidos representam a consolidação dos fundamentos necessários para evolução em backend e desenvolvimento Full Stack.
-
----
-
-📈 Parte da minha evolução contínua como Desenvolvedor Full Stack.
-
+- Listas e dicionários
